@@ -2,8 +2,9 @@ RENCANA KONTEN WPU
 
 -java script
 * ES6
-* Frsmework Javascript
-  ^veu
+* Framework Javascript
+  ^ veu
+  ^ react
 -struktur data dasar
 -PHP Framework
   ^laravel
